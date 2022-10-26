@@ -30,7 +30,7 @@
     </dependencies>
 
   <build>
-    <finalName>01-amazon-app</finalName>
+    <finalName>01-amazon2022-app</finalName>
   </build>
 </project
 
